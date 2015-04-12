@@ -1,0 +1,28 @@
+{
+  "name": "ti-scope",
+  "version": "0.0.0",
+  "description": "Titanium two way data binding",
+  "main": "index.js",
+  "titaniumManifest": {
+    "name": "scope",
+    "moduleid": "scope",
+    "guid": "7eca2cc4-51ef-8072-3f71-f5df307f729e"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rotorgames/ti-scope.git"
+  },
+  "keywords": [
+    "titanium",
+    "scope",
+    "binding"
+  ],
+  "author": "rotorgames",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rotorgames/ti-scope/issues"
+  }
+}
